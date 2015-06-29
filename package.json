@@ -1,0 +1,19 @@
+{
+  "name": "echo_server",
+  "version": "1.0.0",
+  "description": "echoes info about incomming http requests",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorgiMan/echo_server.git"
+  },
+  "author": "wieger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CorgiMan/echo_server/issues"
+  },
+  "homepage": "https://github.com/CorgiMan/echo_server#readme"
+}
